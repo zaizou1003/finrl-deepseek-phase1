@@ -31,8 +31,7 @@ The main report figures are:
 
 ## Notes
 
-Large model checkpoints, raw datasets, training logs, and generated result folders are excluded from this repository to keep it lightweight.
-
+Large raw datasets, training logs, and generated result folders are excluded from this repository to keep it lightweight. The three Phase 1 checkpoints used in the report are included under `checkpoints_phase1/`.
 The dataset used in this project is the FinRL-DeepSeek Nasdaq dataset from Hugging Face: `benstaf/nasdaq_2013_2023`.
 
 ## Author
