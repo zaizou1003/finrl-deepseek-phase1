@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+trained_models/
+results/
+*.log
+
+.env
+.DS_Store
+Thumbs.db
